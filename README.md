@@ -8,10 +8,6 @@ Text analytics, also known as text mining or natural language processing (NLP), 
 
 ## Projects
 
-1. ****: This project focuses on analyzing the sentiment expressed in text data. It involves classifying text into positive, negative, or neutral categories to understand the underlying sentiment.
+1. **Text Similarity**: This project focuses on measuring the similarity between two or more pieces of text. It explores techniques such as cosine similarity, Jaccard similarity, and more to quantify the similarity between documents, sentences, or words.
 
-2. **Topic Modeling**: In this project, we explore topic modeling techniques such as Latent Dirichlet Allocation (LDA) or Non-negative Matrix Factorization (NMF) to identify latent topics within a collection of documents.
-
-3. **Text Classification**: Text classification involves categorizing text documents into predefined categories or labels. This project demonstrates the application of machine learning algorithms for text classification tasks.
-
-4.
+2. **Word Cloud**: In this project, we generate word clouds to visually represent the most frequent words in a corpus of text. Word clouds provide a quick and intuitive way to identify key themes, topics, or trends within a dataset.
